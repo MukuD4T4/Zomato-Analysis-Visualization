@@ -12,3 +12,6 @@ Inferences and Conclusion
 8.Koramangala 5th Block has the most number of restaurents that provide the option of booking table.  
 9.Drinks & nightlife and Dine-out are the most preffered choices of the people.  
 10.MG road is the most expensive when it comes to average of all the restaurant's cost of 2.
+
+![9](https://user-images.githubusercontent.com/107141644/176999945-96779442-6795-4127-bf4a-98ef62710160.png)  
+This is one of the visualization used in this analysis. to view more, kindly open the visualization folder.
